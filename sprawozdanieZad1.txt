@@ -1,0 +1,50 @@
+SPRAWOZDANIE W FORMACIE TXT (Zrobiłem również w pdfie)
+
+Tematem mojego projektu to Analiza Statystyk Piłkarzy z Top4 Najlepszych Lig Piłkarskich.
+Zebrałem 3 najlepszych strzelców z każdych 4 najlepszych lig piłkarskich na świecie czyli ligi angielskiej, włoskiej, hiszpańskiej i niemieckiej z sezonu 2023/2024.
+Wszystkie dane były wykorzystane z portalu transfermarkt.pl
+
+
+Analiza statystyczna:
+
+Statystyki opisowe:
+
+Wiek: Średni wiek piłkarzy wynosi około 28 lat, przy minimalnym wieku 22 lata i maksymalnym 37 lata.
+Ilość meczów: Średnia ilość rozegranych meczów wynosi około 32, z minimalną ilością 28 i maksymalną 36.
+Bramki: Średnia liczba strzelonych bramek wynosi około 24, przy minimalnej liczbie 15 i maksymalnej 36.
+Wiek piłkarzy waha się od 22 do 37 lat, co pokazuje, że mamy do czynienia z różnymi etapami kariery zawodniczej. Średnia liczba rozegranych meczów oraz bramek 
+również wskazuje na doświadczenie i aktywność zawodników.
+
+Macierz korelacji:
+
+Korelacja między wiekiem a ilością meczów wynosi około 0.32, co sugeruje, że istnieje umiarkowana dodatnia zależność między wiekiem piłkarzy a liczbą rozegranych meczów.
+Korelacja między ilością meczów a liczbą strzelonych bramek wynosi około 0.11, co wskazuje na słabszą dodatnią zależność między doświadczeniem w postaci liczby rozegranych
+meczów a skutecznością w strzelaniu bramek.
+Korelacja między wiekiem a liczbą strzelonych bramek wynosi około -0.02, co oznacza, że nie ma silnej zależności między wiekiem a efektywnością w strzelaniu bramek.
+
+Wnioski:
+Wiek i doświadczenie:
+
+Piłkarze mają zróżnicowany wiek, co może wpływać na ich dynamikę i wydajność na boisku. Młodsi zawodnicy jak Haaland (23 lata) i Isak (22 lata) mogą mieć potencjał rozwoju, 
+podczas gdy starsi zawodnicy jak Giroud (37 lat) mogą przynosić doświadczenie i stabilność do swoich drużyn.
+
+Efektywność w strzelaniu bramek:
+
+Średnia liczba strzelonych bramek (około 24) wskazuje na umiarkowaną efektywność piłkarzy w ataku. Zawodnicy jak Lewandowski (35 lat, 19 bramek) i Kane (30 lat, 36 bramek) są 
+kluczowymi strzelcami, co może wpływać na wyniki ich drużyn.
+Zależności między zmiennymi:
+
+Istnieje umiarkowana dodatnia korelacja między wiekiem a ilością rozegranych meczów, co sugeruje, że starsi piłkarze mają tendencję do większej ilości występów.
+Brak silnej korelacji między ilością meczów a liczbą strzelonych bramek wskazuje, że skuteczność w strzelaniu bramek może zależeć od innych czynników, 
+takich jak umiejętności techniczne czy taktyka.
+
+Modelowanie danych:
+
+Modele liniowe (zarówno prosty jak i wielozmiennowy) użyte do przewidywania liczby strzelonych bramek na podstawie wieku i ilości rozegranych meczów dają różne wyniki. 
+Multiple Model (uwzględniający wiek i ilość meczów) może lepiej dopasowywać się do danych testowych, co sugeruje, że obie zmienne mają wpływ na liczbę strzelonych bramek.
+
+Podsumowanie:
+Analiza danych statystycznych piłkarzy pokazuje, że wiek, doświadczenie oraz efektywność w strzelaniu bramek są istotnymi czynnikami w ocenie ich wydajności. 
+Mimo że wiek i doświadczenie mają swoje znaczenie, efektywność w strzelaniu bramek może być również wynikiem innych czynników taktycznych czy fizycznych. 
+Modelowanie danych pozwala na przewidywanie, jak te zmienne mogą wpływać na wyniki piłkarzy w przyszłości, co jest istotne dla menedżerów drużyn przy podejmowaniu decyzji
+personalnych i taktycznych.

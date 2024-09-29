@@ -1,0 +1,1 @@
+#(Plik niepotrzebny służył do testów programów)
